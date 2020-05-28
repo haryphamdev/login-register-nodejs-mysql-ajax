@@ -1,0 +1,8 @@
+fieldset {
+    border: 2px solid grey;
+    border-radius: 3px;
+    padding: 20px;
+}
+legend {
+    width: auto !important;
+}
